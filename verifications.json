@@ -1,0 +1,17 @@
+{
+  "7578426218": {
+    "telegram_user_id": 7578426218,
+    "username": "aseka0303",
+    "verification_type": "student",
+    "verification_id": "",
+    "status": "error",
+    "user_data": {
+      "first_name": "пгнп",
+      "last_name": "пшр",
+      "birth_date": "1999-03-23",
+      "school_name": "Ui"
+    },
+    "created_at": "2026-03-23T23:31:45.015076+00:00",
+    "updated_at": "2026-03-23T23:31:45.015086+00:00"
+  }
+}
